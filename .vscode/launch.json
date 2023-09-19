@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HexagonalApplication<hexagonal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.wferdinando.hexagonal.HexagonalApplication",
+            "projectName": "hexagonal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
